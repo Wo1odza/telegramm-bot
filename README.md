@@ -1,3 +1,3 @@
 # telegramm-bot
 Telegram Bot - Say goodbye to messy files and lost ideas! This bot is designed to be your reliable assistant for project management right within Telegram. Have you ever faced the frustration of important notes getting lost in chats or having to search endlessly for the right files? This Telegram Bot solves this, letting you quickly and conveniently save everything you need for your projects in one place. Now you can easily save text notes, important links, files of any format, and even images. All your materials will be stored in an organized way and always accessible at your fingertips. Forget the chaos – bring order to your projects with this Telegram Bot!
-## Right now only on Russia we are sorry!
+## Right now only on Russian we are sorry!
